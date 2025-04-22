@@ -21,7 +21,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/age-calculator.git
+git clone https://github.com/kutubofficial/age-calculator.git
 Navigate to the project folder:
 
 bash
